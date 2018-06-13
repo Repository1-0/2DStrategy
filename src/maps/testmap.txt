@@ -1,0 +1,14 @@
+10
+10
+bush bush bush bush water bush bush bush bush bush
+grass grass grass grass water grass grass grass grass grass
+grass grass grass grass water grass grass grass grass grass
+grass grass grass grass water grass grass grass grass grass
+road road road road road road road road road road
+road road road road road road road road road road
+grass grass grass grass water grass grass grass grass grass
+grass grass grass grass water grass grass grass grass grass
+grass grass grass grass water grass grass grass grass grass
+bush bush bush bush water bush bush bush bush bush
+1
+2 2
